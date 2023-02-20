@@ -9,3 +9,5 @@ This repository is for storing the tasks for the project 2035
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue&layout=compact)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
